@@ -53,7 +53,7 @@
 <p><a href="https://www.buymeacoffee.com/happychrisT"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="happychrisT" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happychristian777&show_icons=true&locale=en" alt="happychristian777" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=happychristian777&show_icons=true&locale=en" alt="happychristian777" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happychristian777&" alt="happychristian777" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happychristian777&" alt="happychristian777" />
 
