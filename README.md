@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/happychr3" target="blank"><img src="https://img.shields.io/twitter/follow/happychr3?logo=twitter&style=for-the-badge" alt="happychr3" /></a> </p>
 
-- 🔭 I’m currently working on [FoodAssist](http://bon-apettito.s3-website.ap-south-1.amazonaws.com/)
+- 🔭 I’m currently working on Twitter Clone
 
 - 🌱 I’m currently learning **MongoDb**
 
