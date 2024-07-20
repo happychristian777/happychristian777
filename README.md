@@ -9,10 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/happychr3" target="blank"><img src="https://img.shields.io/twitter/follow/happychr3?logo=twitter&style=for-the-badge" alt="happychr3" /></a> </p>
 
-- 🔭 I’m currently working on Twitter Clone
-
-- 🌱 I’m currently learning **MongoDb**
-
 - 👨‍💻 All of my projects are available at [happychristian.me](happychristian.me)
 
 - 📝 I regularly write articles on [https://www.quora.com/](https://www.quora.com/)
