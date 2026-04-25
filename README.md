@@ -25,24 +25,28 @@
 <!-- ====== ABOUT ME ====== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> &nbsp; whoami
 
+<img align="right" width="380" alt="coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
 ```ts
 const happy = {
   role:        "FullStack Developer",
   location:    "India 🇮🇳",
-  stack:       ["Vue", "Nuxt", "Laravel", "Tailwind", "MySQL"],
-  domain:      ["POS systems", "Web apps", "API design"],
-  currently:   "Crafting clean, scalable interfaces",
+  stack:       ["Vue", "Nuxt", "Laravel", "Tailwind"],
+  domain:      ["POS systems", "Web apps", "APIs"],
+  currently:   "Crafting clean, scalable UIs",
   learning:    "Architecture patterns at scale",
-  philosophy:  "Antagonists make the best protagonists",
+  philosophy:  "Antagonists make the best stories",
   quirk:       "Will fight you over indentation"
 };
 ```
 
 - 🌐 &nbsp; Portfolio &rarr; **[happychristian.me](https://happychristian.me)**
 - ✍️ &nbsp; I write on **[Quora](https://www.quora.com/profile/Happy-Christian-3)** &nbsp;&middot;&nbsp; **[Medium](https://medium.com/@happy.christian.hc3)**
-- 💬 &nbsp; Ask me about **`Vue`** &nbsp;&middot;&nbsp; **`Nuxt`** &nbsp;&middot;&nbsp; **`Laravel`** &nbsp;&middot;&nbsp; **`POS architecture`**
+- 💬 &nbsp; Ask me about **`Vue`** &nbsp;&middot;&nbsp; **`Nuxt`** &nbsp;&middot;&nbsp; **`Laravel`**
 - 📫 &nbsp; Reach me &rarr; **happy.christian.hc3@gmail.com**
 - ⚡ &nbsp; Fun fact &rarr; *I root for the antagonists. Joffrey had range, fight me.*
+
+<br clear="right"/>
 
 <br/>
 
