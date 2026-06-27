@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ====== ANIMATED HEADER WAVE ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Happy%20Christian&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%E2%80%A2%20Vue%20%E2%80%A2%20Nuxt%20%E2%80%A2%20Laravel&descAlignY=60&descSize=18" />
+<img width="100%" alt="Happy Christian — FullStack Developer · Vue · Nuxt · Laravel" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Happy%20Christian&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%E2%80%A2%20Vue%20%E2%80%A2%20Nuxt%20%E2%80%A2%20Laravel&descAlignY=60&descSize=18" />
 
 <!-- ====== TYPING ANIMATION ====== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=Building+the+web%2C+one+component+at+a+time;Vue+%2F+Nuxt+%2F+Laravel+specialist;Crafting+POS+%26+enterprise+systems;%E2%80%9CI+like+antagonists.%E2%80%9D" alt="Typing SVG" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4500&pause=1500&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+the+web%2C+one+component+at+a+time;Vue+%2F+Nuxt+%2F+Laravel+specialist;Crafting+POS+%26+enterprise+systems;%E2%80%9CI+like+antagonists.%E2%80%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 <br/>
 
 <!-- ====== ABOUT ME ====== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> &nbsp; whoami
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="Waving hand" /> &nbsp; whoami
 
 <img align="right" width="380" alt="coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
@@ -51,7 +51,7 @@ const happy = {
 <br/>
 
 <!-- ====== TECH STACK ====== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp; Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28" alt="Tech stack icon" /> &nbsp; Arsenal
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ const happy = {
 
 ### 🎨 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vue,nuxtjs,vuetify,tailwind,html,css,js,ts" /><br/>
+<img alt="Vue, Nuxt, Vuetify, Tailwind, HTML, CSS, JavaScript, TypeScript" src="https://skillicons.dev/icons?i=vue,nuxtjs,vuetify,tailwind,html,css,js,ts" /><br/>
 <sub><b>Where the magic shows up</b></sub>
 </div>
 
@@ -68,7 +68,7 @@ const happy = {
 
 ### ⚙️ Backend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,c,cpp,cs" /><br/>
+<img alt="Laravel, PHP, Node.js, C, C++, C#" src="https://skillicons.dev/icons?i=laravel,php,nodejs,c,cpp,cs" /><br/>
 <sub><b>Where the magic happens</b></sub>
 </div>
 
@@ -77,7 +77,7 @@ const happy = {
 
 ### 🗄️ Database & Cloud
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,aws,azure,linux" /><br/>
+<img alt="MySQL, Firebase, AWS, Azure, Linux" src="https://skillicons.dev/icons?i=mysql,firebase,aws,azure,linux" /><br/>
 <sub><b>Where the magic persists</b></sub>
 </div>
 
@@ -88,7 +88,7 @@ const happy = {
 
 ### 🔧 DevOps & Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,selenium" /><br/>
+<img alt="Git, GitHub, Jenkins, Postman, Selenium" src="https://skillicons.dev/icons?i=git,github,jenkins,postman,selenium" /><br/>
 <sub><b>Keeping the gears turning</b></sub>
 </div>
 
@@ -97,7 +97,7 @@ const happy = {
 
 ### 🧪 Testing & QA
 <div align="center">
-<img src="https://skillicons.dev/icons?i=selenium,postman,jest" /><br/>
+<img alt="Selenium, Postman, Jest" src="https://skillicons.dev/icons?i=selenium,postman,jest" /><br/>
 <sub><b>Bugs hate me</b></sub>
 </div>
 
@@ -106,7 +106,7 @@ const happy = {
 
 ### 🚀 Frameworks & CMS
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vue,nuxtjs,laravel" /><br/>
+<img alt="Vue, Nuxt, Laravel" src="https://skillicons.dev/icons?i=vue,nuxtjs,laravel" /><br/>
 <sub><b>Vuepress · CodeIgniter · Oracle</b></sub>
 </div>
 
@@ -117,33 +117,42 @@ const happy = {
 <br/>
 
 <!-- ====== GITHUB STATS ====== -->
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28" /> &nbsp; The Numbers
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28" height="28" alt="Stats chart icon" /> &nbsp; The Numbers
 
 <div align="center">
 
 <a href="https://github.com/happychristian777">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=happychristian777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happychristian777&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" />
+  <img height="180em" alt="Happy Christian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=happychristian777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" />
+  <img height="180em" alt="Top languages used by Happy Christian" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happychristian777&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" />
 </a>
 
 <br/>
 
 <a href="https://github.com/happychristian777">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happychristian777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed" />
+  <img alt="Happy Christian's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=happychristian777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed" />
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/happychristian777">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=happychristian777&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=a78bfa&point=ffffff&hide_border=true&area=true" />
+  <img alt="Happy Christian's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=happychristian777&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=a78bfa&point=ffffff&hide_border=true&area=true&radius=16" />
 </a>
+
+<br/><br/>
+
+<!-- Contribution Snake (generated every 6h by .github/workflows/main.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/happychristian777/happychristian777/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/happychristian777/happychristian777/output/github-contribution-grid-snake-light.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/happychristian777/happychristian777/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/><br/>
 
 <!-- Trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=happychristian777&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img alt="Happy Christian's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=happychristian777&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </a>
 
 </div>
@@ -151,33 +160,33 @@ const happy = {
 <br/>
 
 <!-- ====== CONNECT ====== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> &nbsp; Find me elsewhere
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" height="28" alt="Connect icon" /> &nbsp; Find me elsewhere
 
 <div align="center">
 
 <a href="https://linkedin.com/in/happy-christian-71a6a8160">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/happychr3">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
 </a>
 <a href="https://medium.com/@happy.christian.hc3">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 <a href="https://stackoverflow.com/users/happy-christian">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
 </a>
 <a href="https://www.leetcode.com/user7797f">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="https://codepen.io/happy-christian">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
 </a>
 <a href="https://instagram.com/happy._.christian.7">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://fb.com/yppah.christian.77">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
 </div>
@@ -187,23 +196,23 @@ const happy = {
 <!-- ====== QUOTE ====== -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28" /> &nbsp; Quote of the Day
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28" height="28" alt="Speech bubble icon" /> &nbsp; Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img alt="Random developer quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 <br/>
 
 <!-- ====== SUPPORT ====== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> &nbsp; Support
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" height="28" alt="Heart support icon" /> &nbsp; Support
 
 <div align="center">
 
 If my work helped you ship something cool, fuel the next late-night commit:
 
 <a href="https://www.buymeacoffee.com/happychrisT">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
 </a>
 
 </div>
@@ -211,7 +220,7 @@ If my work helped you ship something cool, fuel the next late-night commit:
 <br/>
 
 <!-- ====== FOOTER WAVE ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+<img width="100%" alt="Thanks for stopping by!" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
 <div align="center">
   <sub><i>"The villain is the hero of the other story." — Crafted with ☕ &amp; spite by Happy</i></sub>
