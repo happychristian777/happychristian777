@@ -5,7 +5,7 @@
 
 <!-- ====== TYPING ANIMATION ====== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=Building+the+web%2C+one+component+at+a+time;Vue+%2F+Nuxt+%2F+Laravel+specialist;Crafting+POS+%26+enterprise+systems;%E2%80%9CI+like+antagonists.%E2%80%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+the+web%2C+one+component+at+a+time;Vue+%2F+Nuxt+%2F+Laravel+specialist;Crafting+POS+%26+enterprise+systems;%E2%80%9CI+like+antagonists.%E2%80%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -136,8 +136,17 @@ const happy = {
 
 <!-- Activity Graph -->
 <a href="https://github.com/happychristian777">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=happychristian777&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=a78bfa&point=ffffff&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=happychristian777&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=a78bfa&point=ffffff&hide_border=true&area=true&radius=16" />
 </a>
+
+<br/><br/>
+
+<!-- Contribution Snake (generated every 6h by .github/workflows/main.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/happychristian777/happychristian777/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/happychristian777/happychristian777/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/happychristian777/happychristian777/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/><br/>
 
